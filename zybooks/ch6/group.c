@@ -12,6 +12,11 @@ void nicolas() {
 }
 
 void tucker() {
+  Tucker Day
+  Junior
+  Math / CS
+  Hobbies
+  Kalispell
 
 }
 
