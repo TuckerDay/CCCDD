@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 void conner(){
 
     printf("Name: Conner Copeland\n");
@@ -36,5 +38,9 @@ void raleigh(){
 }
 
 void main() {
+    parker();
+    conner();
+    nicolas();
+    tucker();
     raleigh();
 }
