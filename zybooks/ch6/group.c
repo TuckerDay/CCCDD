@@ -5,7 +5,8 @@ void conner(){
     printf("Major: Computer Science\n");
     printf("Hobbies: I like playing video games, reading, and a bit of birding\n");
     printf("I grew up in Florence, Montana\n");
-    
+    printf("I was project manager for this Git practice exercise\n");
+
 }
 
 void parker() {
