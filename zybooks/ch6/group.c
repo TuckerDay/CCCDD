@@ -1,7 +1,8 @@
 void conner(){
 
     printf("Name: Conner Copeland\n");
-    printf("Year: Senior by credit, Junior by progression\n");
+    printf("Year: Senior\n");
+    printf("Major: Computer Science\n");
 }
 
 void parker() {
