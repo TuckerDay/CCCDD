@@ -14,7 +14,7 @@ void nicolas() {
 void tucker() {
   Tucker Day
   Junior
-  Math / CS
+  Math / Computer Science
   Hobbie
   Kalispell
   Nothing interesting
