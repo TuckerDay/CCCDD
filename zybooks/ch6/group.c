@@ -12,13 +12,12 @@ void nicolas() {
 }
 
 void tucker() {
-  Tucker Day
-  Junior
-  Math / Computer Science
-  Hobbie
-  Kalispell
-  Nothing interesting
-
+  printf("Tucker Day\n");
+  printf("Junior\n");
+  printf("Math/ CS\n");
+  printf("Reading, writing, cooking\n");
+  printf("Kalispell\n");
+  printf("Nothing interesting\n");
 }
 
 void raleigh() {
