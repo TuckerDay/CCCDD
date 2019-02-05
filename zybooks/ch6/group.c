@@ -4,9 +4,11 @@ void conner(){
 
 void parker() {
 printf("Jeremy Parker\n");
-printf("Senior");
-printf("MIS Business");
-printf("I like to ski");
+printf("Senior\n");
+printf("MIS Business\n");
+printf("I like to ski\n");
+printf("Missoula, MT\n");
+printf("I can lick my elbow\n");
 }
 
 void nicolas() {
