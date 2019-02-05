@@ -5,7 +5,7 @@ void conner(){
     printf("Major: Computer Science\n");
     printf("Hobbies: I like playing video games, reading, and a bit of birding\n");
     printf("I grew up in Florence, Montana\n");
-    printf("I was project manager for this Git practice exercise\n");
+    printf("I was project manager for this Git practice exercise\n\n");
 
 }
 
@@ -14,12 +14,12 @@ void parker() {
 }
 
 void nicolas() {
-printf("My name is: Nicolas Crepeau");
-printf("I am a freshman");
-printf("I am a computer science major");
-printf("My hobbies include: baseball and C & C++");
-printf("I grew up in Brooklyn");
-printf("There is nothing else that is interesting about my life outside of these 4 prior questions");
+printf("My name is: Nicolas Crepeau\n");
+printf("I am a freshman\n");
+printf("I am a computer science major\n");
+printf("My hobbies include: baseball and C & C++\n");
+printf("I grew up in Brooklyn\n");
+printf("There is nothing else that is interesting about my life outside of these 4 prior questions (except that I made Conner add all my newline characters :( )\n\n");
 }
 
 void tucker() {
