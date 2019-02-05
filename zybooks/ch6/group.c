@@ -17,6 +17,7 @@ void tucker() {
   Math / CS
   Hobbies
   Kalispell
+  Nothing interesting
 
 }
 
