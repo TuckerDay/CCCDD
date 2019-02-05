@@ -15,7 +15,7 @@ void tucker() {
   Tucker Day
   Junior
   Math / CS
-  Hobbies
+  Hobbie
   Kalispell
   Nothing interesting
 
