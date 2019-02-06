@@ -17,7 +17,7 @@ printf("Senior\n");
 printf("MIS Business\n");
 printf("I like to ski\n");
 printf("Missoula, MT\n");
-printf("I can lick my elbow\n");
+printf("I can lick my elbow\n\n");
 }
 
 void nicolas() {
